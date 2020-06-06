@@ -61,6 +61,12 @@ body {
     background: #2196F3;
     color: #ffffff;
 }
+
+.button.secondary {
+    color: #2196F3;
+    background-color: #ffffff;
+}
+
 .section-title {
     color: #212121;
 }
