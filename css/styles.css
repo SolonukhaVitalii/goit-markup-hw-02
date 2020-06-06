@@ -1,3 +1,11 @@
+:root {
+    --primary-text-color: #FFFFFF;
+    --title-text-color: #212121;
+    --accent-color: #757575;
+    --primary-bg-color: #000000;
+}
+
+
 body {
     background:#FFFFFF;
     color: #757575;
@@ -18,10 +26,49 @@ body {
 .site-nav .link:focus {
     color: #2196F3;
 }
+
+.site-nav .link .current {
+    color: #2196F3;
+}
 .contact {
     color: #757575;
 }
+
 .contact:hover,
 .contact:focus {
     color: #2196F3;
+}
+
+.hero-title{
+    background:  rgba(47, 48, 58, 0.8);
+    color: #FFFFFF;
+}
+
+.button {
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.button.primary {
+    background: #2196F3;
+    color: #ffffff;
+}
+.section-title {
+    color: #212121;
+}
+
+.section-name {
+    color: purple;
+}
+.section-text {
+    color: #757575;
+}
+
+.section-titles {
+    color: #212121;
+}
+
+.section-cod {
+    color: #FFFFFF;
+    background: rgba(47, 48, 58, 0.8;
 }
