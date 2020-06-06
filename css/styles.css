@@ -5,7 +5,7 @@
     --primary-bg-color: #000000;
 }
 
-
+/*Стили для index.html*/
 body {
     background:#FFFFFF;
     color: #757575;
@@ -16,6 +16,14 @@ body {
 }
 .logo {
     color: black;
+}
+
+.logo-blue {
+    color: #2196F3;
+}
+
+.logo-black {
+    color: #000000;
 }
 
 .site-nav .link {
@@ -70,5 +78,21 @@ body {
 
 .section-cod {
     color: #FFFFFF;
-    background: rgba(47, 48, 58, 0.8;
+    background: rgba(47, 48, 58, 0.8);
+}
+
+.footer {
+    color: #ffffff;
+    background: #2F303A;
+}
+
+.footer-address {
+    color: #ffffff;
+}
+footer-contact {
+    color: #FFFFFF;
+}
+
+.footer-title {
+    color: #FFFFFF;
 }
