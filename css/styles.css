@@ -1,4 +1,27 @@
 body {
-    background-color;
-    
+    background:#FFFFFF;
+    color: #757575;
+}
+
+.list {
+    list-style: none;
+}
+.logo {
+    color: black;
+}
+
+.site-nav .link {
+    color: #212121;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: #2196F3;
+}
+.contact {
+    color: #757575;
+}
+.contact:hover,
+.contact:focus {
+    color: #2196F3;
 }
