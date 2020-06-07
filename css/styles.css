@@ -111,7 +111,6 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
-    font-family: Roboto;
 }
 
 .section-name {
@@ -161,7 +160,8 @@ body {
     text-transform: uppercase;
 }
 
-/*Стилистика страницы Портфолио*/
+/*Стили для portfolio
+.html*/
 
 .work-button {
     color: #212121;
@@ -201,6 +201,5 @@ body {
     font-size: 18px;
     line-height: 1.56;
 }
-
 
 
