@@ -157,7 +157,6 @@ a {
 
 .footer-title {
     color: #FFFFFF;
-    background: #000000;
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -173,6 +172,11 @@ a {
     font-size: 16px;
     line-height: 1.62;
     text-align: center;
+}
+
+.work-button:hover,
+.work-button:focus {
+    color: #2196F3;
 }
 
 .work-title {
@@ -200,7 +204,6 @@ a {
 
 .text {
     color: #FFFFFF;
-    background: #000000;
     font-weight: 400;
     font-size: 18px;
     line-height: 1.56;
