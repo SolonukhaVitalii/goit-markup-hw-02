@@ -10,7 +10,7 @@
 body {
     background-color: var(--primary-white-color);
     color: var(--primary-text-color);
-    font-family: Roboto; sans-serif;
+    font-family: Roboto;
     letter-spacing: 0.03em;
 }
 
@@ -42,7 +42,7 @@ a {
     color: var(--link-color);
     font-weight: 500;
     font-size: 14px;
-    line-height: 1.14x;
+    line-height: 1.14px;
     letter-spacing: 0.02em;
 }
 
@@ -62,6 +62,7 @@ a {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
+    font-style: normal;
 }
 
 .contact:hover,
@@ -145,6 +146,7 @@ a {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
+    font-style: normal;
 }
 
 .footer-contact {
@@ -152,7 +154,7 @@ a {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
-
+    font-style: normal;
 }
 
 .footer-title {
@@ -201,6 +203,3 @@ a {
     font-size: 18px;
     line-height: 1.56;
 }
-
-
-https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/0.6.0/modern-normalize.min.css
